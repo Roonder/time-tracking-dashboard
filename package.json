@@ -1,0 +1,36 @@
+{
+  "name": "time-tracking-dashboard-main",
+  "version": "1.0.0",
+  "description": "Frontend Mentor Challenge (Time Tracking Dashboard)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roonder/time-tracking-dashboard.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "SASS",
+    "Gulp",
+    "Node.js"
+  ],
+  "author": "Roonder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roonder/time-tracking-dashboard/issues"
+  },
+  "homepage": "https://github.com/Roonder/time-tracking-dashboard#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.11",
+    "cssnano": "^5.1.13",
+    "gulp": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser-js": "^5.2.2",
+    "sass": "^1.54.9"
+  }
+}

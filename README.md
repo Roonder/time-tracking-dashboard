@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/time-tracking-dashboard-javascript-vanilla-sass-gulp-8N_ZkDzrph)
+- Live Site URL: (https://roonder-timetrackerapp.netlify.app/)
 
 ## My process
 
